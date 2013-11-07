@@ -1,5 +1,5 @@
 class Node{
-	HashMap<Node, Integer> neighbor;
+	HashMap< Node, Integer> neighbor;
 	Node(){
 		neighbor = new HashMap<Node, Integer>();
 	}
